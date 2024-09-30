@@ -4,7 +4,7 @@ function llamarFuncion(){
     Swal.fire({
         position: "top-end",
         icon: "success",
-        title: "USTED ESTRA VERIFICADO POR LA SOSACION DE PAJARO JAISON SENA",
+        title: "USTED ESTRA VERIFICADO POR LA SOSACION DE PAJARO ALEXIS PEREZ MUCHAS GRACIAS",
         showConfirmButton: false,
         timer: 5000
       });
